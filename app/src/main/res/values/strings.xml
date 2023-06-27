@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ZenPlayer</string>
+    <string name="music_note">Music_Note</string>
+    <string name="music_library">Music Library</string>
+    <string name="video_library">video_library</string>
+    <string name="video_library_1">Video Library</string>
+    <string name="video_file">Video File</string>
+    <string name="previous">Previous</string>
+    <string name="pause_play">Pause/Play</string>
+    <string name="next">Next</string>
+    <string name="zenplayer">ZenPlayer</string>
+    <string name="shuffle">Shuffle</string>
+</resources>
