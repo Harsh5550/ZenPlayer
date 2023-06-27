@@ -1,3 +1,5 @@
+# ZenPlayer
+
 Zenplayer is a multimedia player designed to provide a seamless playback experience for both videos and audio files from local storage. With support for popular formats such as MP3, MP4, and MKV, Zenplayer offers a comprehensive solution for enjoying a wide range of media content.
 
 Key Features:
